@@ -9,11 +9,11 @@
 
 Note:
 
-What features are already working?
--Logging in as admin and registering
-What still needs to be done?
--The password strenght meter needs to updated.
-Who did what?
+What features are already working?</br>
+-Logging in as admin and registering</br>
+What still needs to be done?</br>
+-The password strenght meter needs to updated.</br>
+Who did what?</br>
 
 ## About Laravel
 
